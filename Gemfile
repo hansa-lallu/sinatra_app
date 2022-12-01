@@ -5,5 +5,5 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'shotgun', '0.9.2'
-gem 'sinatra', '2.0.8.1'
+gem 'sinatra', '2.2.3'
 # gem "rails"
